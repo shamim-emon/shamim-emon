@@ -6,8 +6,14 @@
 </p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/shamim-shahrier-emon-640005160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamim-shahrier-emon-640005160" height="30" width="40" /></a>
+<div align="center">
+  <a href="mailto:emon9891@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="shamim-shahrier-emon-640005160" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
