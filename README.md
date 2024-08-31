@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamim Shahrier Emon</h1>
-<h3 align="center">A passionate Android developer from Bangladesh</h3>
+<h3 align="center">A passionate Android developer from Bangladesh 🇧🇩 </h3>
 
 - 💬 Ask me about **Android, Kotlin,GHA**
 
