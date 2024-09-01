@@ -23,7 +23,6 @@ Hello, My name's Shamim Shahrier Emon, I'm a Bangladeshi multipotentialite, Open
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shamim-emon&show_icons=true&count_private=true&theme=)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-emon&hide=javascript,css&layout=compact)
 
 ## Tech Stack
 
