@@ -18,11 +18,9 @@ Hello, My name's Shamim Shahrier Emon, I'm a Bangladeshi multipotentialite, Open
 [![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SSEmon)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emon9891@gmail.com)
 
-<!---
 ## Github Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shamim-emon&show_icons=true&count_private=true&theme=)
--->
 
 ## Tech Stack
 
