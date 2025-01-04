@@ -10,6 +10,9 @@ Hello, My name's Shamim Shahrier Emon, I'm a Bangladeshi multipotentialite, Open
 - 🌱 I'm currently deepening  my knowledge on Android Jetpack Compose, kotlin application, kotlin library development
 - 👯 I’m looking to collaborate, code, do technical writing  
 
+## Technical Blogs
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emon.dev.bd)
+
 ## Reach out to me
 
 
