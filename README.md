@@ -11,12 +11,15 @@ Hello, My name's Shamim Shahrier Emon, I'm a Bangladeshi multipotentialite, Open
 - 👯 I’m looking to collaborate, code, do technical writing  
 
 ## Technical Blogs
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emon.dev.bd)
-
+ I actively share my technical insights and tutorials on Medium. Some of my notable articles: 
+ - [Understanding Hilt Multibinding: A Powerful Tool for Dependency Injection in Android](https://medium.com/@emon.dev.bd/understanding-hilt-multibinding-a-powerful-tool-for-dependency-injection-in-android-335327f592cf)
+ - [Understanding Hilt Assisted Injection: Simplifying Dependency Injection with Runtime Parameters](https://medium.com/@emon.dev.bd/understanding-hilt-assisted-injection-simplifying-dependency-injection-with-runtime-parameters-ec2c88d18be6)
+ - [Hilt Method Injection in Android: Why and When to Use It](https://medium.com/@emon.dev.bd/hilt-method-injection-in-android-why-and-when-to-use-it-4014a9f6a614)
 ## Reach out to me
 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emon-se/)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emon.dev.bd)
 [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/emon9891/)
 [![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SSEmon)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emon9891@gmail.com)
