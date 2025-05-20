@@ -7,7 +7,6 @@ Hello, My name's Shamim Shahrier Emon, I'm a Bangladeshi multipotentialite, Open
 
 
 - 🔭 I’m currently working on several interesting Native Android applications
-- 🌱 I'm currently deepening  my knowledge on Android Jetpack Compose, kotlin application, kotlin library development
 - 👯 I’m looking to collaborate, code, do technical writing  
 
 ## Technical Blogs
