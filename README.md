@@ -1,4 +1,4 @@
-### 👋 Greetings, mate!
+### 👋 Greetings!
 
 ## 👨‍💻 About Me
 
@@ -14,11 +14,13 @@ Hello! I’m **Shamim Shahrier Emon**, a Bangladeshi multipotentialite, Open Sou
 
 I actively contribute to open-source projects and love giving back to the developer community. Some highlights:
 
-- [**thunderbird-android**](https://github.com/thunderbird/thunderbird-android) – Added features and improvements to <b>Mozilla</b>’s Android email client.  
-  👉 [See my contributions](https://github.com/thunderbird/thunderbird-android/commits?author=shamim-emon)
+- [**thunderbird-android**](https://github.com/thunderbird/thunderbird-android) – I am currently contributing by adding features and improvements to <b>Mozilla</b>’s Android email client. I’m proud to be one of the top contributors to this legendary repository.&nbsp
+  <br />👉 [See my contributions](https://github.com/thunderbird/thunderbird-android/commits?author=shamim-emon)
+  <br />👉 [Contributor Rank](https://github.com/thunderbird/thunderbird-android/graphs/contributors)
 
-- [**ivy-wallet**](https://github.com/Ivy-Apps/ivy-wallet) – Contributed to this elegant personal finance app built with Jetpack Compose.  
-  👉 [See my contributions](https://github.com/Ivy-Apps/ivy-wallet/commits?author=shamim-emon)
+- [**ivy-wallet**](https://github.com/Ivy-Apps/ivy-wallet) –I have also contributed significantly to Ivy-Wallet, an innovative Jetpack Compose-based personal finance app.
+  <br />👉 [See my contributions](https://github.com/Ivy-Apps/ivy-wallet/commits?author=shamim-emon)
+  <br />👉 [Contributor Rank](https://github.com/Ivy-Apps/ivy-wallet/graphs/contributors)
 ---
 
 ## ✍️ Technical Blogs
