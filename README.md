@@ -14,7 +14,7 @@ Hello! I’m **Shamim Shahrier Emon**, a Bangladeshi multipotentialite, Open Sou
 
 I actively contribute to open-source projects and love giving back to the developer community. Some highlights:
 
-- [**thunderbird-android**](https://github.com/thunderbird/thunderbird-android) – I am currently contributing by adding features and improvements to <b>Mozilla</b>’s Android email client. I’m proud to be one of the top contributors to this legendary repository.&nbsp
+- [**thunderbird-android**](https://github.com/thunderbird/thunderbird-android) – I am currently contributing by adding features and improvements to <b>Mozilla</b>’s Android email client. I’m proud to be one of the top contributors to this legendary repository.
   <br />👉 [See my contributions](https://github.com/thunderbird/thunderbird-android/commits?author=shamim-emon)
   <br />👉 [Contributor Rank](https://github.com/thunderbird/thunderbird-android/graphs/contributors)
 
