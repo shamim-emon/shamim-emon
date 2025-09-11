@@ -27,8 +27,11 @@ I actively contribute to open-source projects and love giving back to the develo
 
 I also share tutorials and insights on **Medium**. Notable articles include:
 
+- [State Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/state-design-pattern-in-kotlin-5427e80bdb96)
 - [Understanding Hilt Multibinding: A Powerful Tool for Dependency Injection in Android](https://medium.com/@emon.dev.bd/understanding-hilt-multibinding-a-powerful-tool-for-dependency-injection-in-android-335327f592cf)
+- [A Beginner’s Guide to the Visitor Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/a-beginners-guide-to-the-visitor-design-pattern-in-kotlin-597763c62b07)
 - [Understanding Hilt Assisted Injection: Simplifying Dependency Injection with Runtime Parameters](https://medium.com/@emon.dev.bd/understanding-hilt-assisted-injection-simplifying-dependency-injection-with-runtime-parameters-ec2c88d18be6)
+- [Chain of Responsibility Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/chain-of-responsibility-design-pattern-in-kotlin-92bed71b2ada)
 - [Hilt Method Injection in Android: Why and When to Use It](https://medium.com/@emon.dev.bd/hilt-method-injection-in-android-why-and-when-to-use-it-4014a9f6a614)
 - [Strategy Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/strategy-design-pattern-in-kotlin-e9d61ad78ffb)
 
